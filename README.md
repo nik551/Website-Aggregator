@@ -12,3 +12,6 @@
  <li> RSS generator will generate a html code which we have to paste in the website.</li>
  <li>Hence website is completed</li>
  </ul></h3>
+ <h3> here is the link:</h3>
+ <a href="https://nikhilvarghese23.wixsite.com/mysite">link</a>
+ 
