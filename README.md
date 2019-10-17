@@ -7,11 +7,13 @@
 <h2>Approach</h2>
 
 <ul><h3>
- <li>First I made a website using wix.com.</li>
- <li>Secondly I used online RSS feed generator for taking the current news in google.</li>
- <li> RSS generator will generate a html code which we have to paste in the website.</li>
+ <li>First I made a website using wix.com and selected my favourite themes.</li>
+ <li>Then got the google news in RSS format using this format:https://news.google.com/news/rss/headlines/section/topic/{topic} where topic can be WORLD,ENTERTAINMENT,NEWS,SPORTS</li>
+ <li>Secondly I used online RSS feed generator where I just had to paste the link  to that particular generator</li>
+ <li> RSS generator will generate a html code which we have to paste in the website's html section.</li>
+ <li>Then I repeated the process for different topics</li>
  <li>Hence website is completed</li>
  </ul></h3>
- <h3> here is the link:</h3>
+ <h3> here is the link to my site:</h3>
  <a href="https://nikhilvarghese23.wixsite.com/mysite">link</a>
  
